@@ -1,0 +1,11 @@
+[user]
+	name = stolen
+	email = 2026438995@qq.com
+[core]
+	editor = nvim
+[alias]
+	co = checkout
+    br = branch
+    ci = commit
+    st = status
+    logl = log --online
